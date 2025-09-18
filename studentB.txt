@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Line from Student A
+=======
+Hello from B
+>>>>>>> 3c6daa3473043f75a7d8957e1b93a3e842617920
